@@ -9,21 +9,39 @@
 /* Begin PBXBuildFile section */
 		A66327AC2A72A396007756D5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66327AB2A72A396007756D5 /* AppDelegate.swift */; };
 		A66327AE2A72A396007756D5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66327AD2A72A396007756D5 /* SceneDelegate.swift */; };
-		A66327B02A72A396007756D5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66327AF2A72A396007756D5 /* ViewController.swift */; };
 		A66327B32A72A396007756D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A66327B12A72A396007756D5 /* Main.storyboard */; };
 		A66327B52A72A39B007756D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A66327B42A72A39B007756D5 /* Assets.xcassets */; };
 		A66327B82A72A39B007756D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A66327B62A72A39B007756D5 /* LaunchScreen.storyboard */; };
+		A66327C02A72A3CE007756D5 /* MovieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66327BF2A72A3CE007756D5 /* MovieViewController.swift */; };
+		A66FADE02A73D65E0006C6D4 /* Lily's Theme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A66FADDA2A73D65C0006C6D4 /* Lily's Theme.mp3 */; };
+		A66FADE12A73D65E0006C6D4 /* Harry's Sacrifice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A66FADDB2A73D65D0006C6D4 /* Harry's Sacrifice.mp3 */; };
+		A66FADE22A73D65E0006C6D4 /* 夢灯籠.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A66FADDC2A73D65D0006C6D4 /* 夢灯籠.mp3 */; };
+		A66FADE32A73D65E0006C6D4 /* Statues.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A66FADDD2A73D65D0006C6D4 /* Statues.mp3 */; };
+		A66FADE42A73D65E0006C6D4 /* なんでもないや.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A66FADDE2A73D65E0006C6D4 /* なんでもないや.mp3 */; };
+		A66FADE52A73D65E0006C6D4 /* 憧れカフェ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A66FADDF2A73D65E0006C6D4 /* 憧れカフェ.mp3 */; };
+		A66FADE92A73DCDE0006C6D4 /* Dark Sun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A66FADE62A73DCDD0006C6D4 /* Dark Sun.mp3 */; };
+		A66FADEA2A73DCDE0006C6D4 /* Monster Slayers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A66FADE72A73DCDD0006C6D4 /* Monster Slayers.mp3 */; };
+		A66FADEB2A73DCDE0006C6D4 /* Sweet Home.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A66FADE82A73DCDE0006C6D4 /* Sweet Home.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		A66327A82A72A396007756D5 /* MovieGesture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MovieGesture.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A66327AB2A72A396007756D5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A66327AD2A72A396007756D5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		A66327AF2A72A396007756D5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A66327B22A72A396007756D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A66327B42A72A39B007756D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A66327B72A72A39B007756D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A66327B92A72A39B007756D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A66327BF2A72A3CE007756D5 /* MovieViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieViewController.swift; sourceTree = "<group>"; };
+		A66FADDA2A73D65C0006C6D4 /* Lily's Theme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lily's Theme.mp3"; sourceTree = "<group>"; };
+		A66FADDB2A73D65D0006C6D4 /* Harry's Sacrifice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Harry's Sacrifice.mp3"; sourceTree = "<group>"; };
+		A66FADDC2A73D65D0006C6D4 /* 夢灯籠.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "夢灯籠.mp3"; sourceTree = "<group>"; };
+		A66FADDD2A73D65D0006C6D4 /* Statues.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Statues.mp3; sourceTree = "<group>"; };
+		A66FADDE2A73D65E0006C6D4 /* なんでもないや.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "なんでもないや.mp3"; sourceTree = "<group>"; };
+		A66FADDF2A73D65E0006C6D4 /* 憧れカフェ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "憧れカフェ.mp3"; sourceTree = "<group>"; };
+		A66FADE62A73DCDD0006C6D4 /* Dark Sun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dark Sun.mp3"; sourceTree = "<group>"; };
+		A66FADE72A73DCDD0006C6D4 /* Monster Slayers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Monster Slayers.mp3"; sourceTree = "<group>"; };
+		A66FADE82A73DCDE0006C6D4 /* Sweet Home.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Sweet Home.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +76,20 @@
 			children = (
 				A66327AB2A72A396007756D5 /* AppDelegate.swift */,
 				A66327AD2A72A396007756D5 /* SceneDelegate.swift */,
-				A66327AF2A72A396007756D5 /* ViewController.swift */,
+				A66327BF2A72A3CE007756D5 /* MovieViewController.swift */,
 				A66327B12A72A396007756D5 /* Main.storyboard */,
 				A66327B42A72A39B007756D5 /* Assets.xcassets */,
 				A66327B62A72A39B007756D5 /* LaunchScreen.storyboard */,
 				A66327B92A72A39B007756D5 /* Info.plist */,
+				A66FADDB2A73D65D0006C6D4 /* Harry's Sacrifice.mp3 */,
+				A66FADDA2A73D65C0006C6D4 /* Lily's Theme.mp3 */,
+				A66FADDD2A73D65D0006C6D4 /* Statues.mp3 */,
+				A66FADDE2A73D65E0006C6D4 /* なんでもないや.mp3 */,
+				A66FADDC2A73D65D0006C6D4 /* 夢灯籠.mp3 */,
+				A66FADDF2A73D65E0006C6D4 /* 憧れカフェ.mp3 */,
+				A66FADE62A73DCDD0006C6D4 /* Dark Sun.mp3 */,
+				A66FADE72A73DCDD0006C6D4 /* Monster Slayers.mp3 */,
+				A66FADE82A73DCDE0006C6D4 /* Sweet Home.mp3 */,
 			);
 			path = MovieGesture;
 			sourceTree = "<group>";
@@ -125,9 +152,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A66FADEA2A73DCDE0006C6D4 /* Monster Slayers.mp3 in Resources */,
+				A66FADEB2A73DCDE0006C6D4 /* Sweet Home.mp3 in Resources */,
+				A66FADE22A73D65E0006C6D4 /* 夢灯籠.mp3 in Resources */,
 				A66327B82A72A39B007756D5 /* LaunchScreen.storyboard in Resources */,
+				A66FADE52A73D65E0006C6D4 /* 憧れカフェ.mp3 in Resources */,
+				A66FADE42A73D65E0006C6D4 /* なんでもないや.mp3 in Resources */,
+				A66FADE02A73D65E0006C6D4 /* Lily's Theme.mp3 in Resources */,
 				A66327B52A72A39B007756D5 /* Assets.xcassets in Resources */,
+				A66FADE32A73D65E0006C6D4 /* Statues.mp3 in Resources */,
 				A66327B32A72A396007756D5 /* Main.storyboard in Resources */,
+				A66FADE92A73DCDE0006C6D4 /* Dark Sun.mp3 in Resources */,
+				A66FADE12A73D65E0006C6D4 /* Harry's Sacrifice.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +174,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A66327B02A72A396007756D5 /* ViewController.swift in Sources */,
 				A66327AC2A72A396007756D5 /* AppDelegate.swift in Sources */,
 				A66327AE2A72A396007756D5 /* SceneDelegate.swift in Sources */,
+				A66327C02A72A3CE007756D5 /* MovieViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
